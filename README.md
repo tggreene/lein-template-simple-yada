@@ -1,14 +1,14 @@
 # simple-yada
 
-A Leiningen template for FIXME.
+A Leiningen template for getting started with [yada](https://github.com/juxt/yada).
 
 ## Usage
 
-FIXME
+Create a template with `lein new simple-yada {{project}}`
 
-## License
+Run with `lein run`
 
-Copyright © 2017 FIXME
+## Credit
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Uses basic outline from [minimal-yada-bidi](https://github.com/kornysietsma/minimal-yada-bidi)
+
